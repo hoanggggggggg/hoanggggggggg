@@ -339,6 +339,7 @@ html {
     padding:10px 16px;
     float:right;
     cursor: pointer;
+    margin-right: 8px;
 }
 .contact-form .form-submit-btn:hover {
     opacity: 0.6;
